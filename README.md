@@ -1,5 +1,3 @@
-Based on the professional and technical nature of your project shown in the screenshots (Vite, React, Tailwind CSS) and the platform name, here is a professional README.md tailored for your Neuro AI Platform.
-
 🧠 Neuro AI Platform
 Neuro AI Platform (also known as Nexus AI) is a next-generation, AI-driven ecosystem designed for smart communication, advanced data analysis, and seamless human-AI collaboration. Built with a focus on speed, security, and accessibility, the platform unifies multiple AI services into a single, high-performance web workspace.
 
